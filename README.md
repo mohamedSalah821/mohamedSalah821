@@ -70,17 +70,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mohamedSalah821/mohamedSalah821/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/mohamedSalah821/count.svg?"  />
 </div>
