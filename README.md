@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="400"  src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47z6zo0kljwilqv7x4wwccxdnuf2y33r8dh3kt46dc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="300" width="600"  src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif?cid=ecf05e47z6zo0kljwilqv7x4wwccxdnuf2y33r8dh3kt46dc&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
