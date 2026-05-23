@@ -3,13 +3,13 @@
 <h3 align="center">
 Software Engineer 👨‍💻 | Full Stack & Generative AI Developer | ASP.NET Core, Angular
 </h3>
----
+
 
 <div align="center">
   <img height="200" width="700" src="https://media.giphy.com/media/NHvv0Bo3oGq1eTBDd1/giphy.gif" alt="coding gif"/>
 </div>
 
----
+
 
 ## 💼 About Me
 I’m a Software Engineer specializing in Full Stack Development and AI-powered applications.
