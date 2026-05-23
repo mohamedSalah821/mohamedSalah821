@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋! My name is <b>Mohamed Salah</b></h1>
 
-<h3 align="center">Software Engineer 👨‍💻 | Full Stack Developer | ASP.NET, Angular</h3>
-
+<h3 align="center">
+Software Engineer 👨‍💻 | Full Stack & Generative AI Developer | ASP.NET Core, Angular
+</h3>
 ---
 
 <div align="center">
@@ -11,10 +12,13 @@
 ---
 
 ## 💼 About Me
-I’m a passionate Software Engineer specializing in **Full Stack Development**.  
-I work with **C# / ASP.NET Core, Angular, EF Core**, and modern web technologies.  
-I love building clean, scalable, and efficient applications.
+I’m a Software Engineer specializing in Full Stack Development and AI-powered applications.
 
+Graduated from the Information Technology Institute (ITI) Intensive Code Camp (ICC) – Full-Stack Web & Generative AI Development using .NET.
+
+I build scalable and efficient web applications using ASP.NET Core, Angular, EF Core, and SQL Server, with hands-on experience in integrating modern AI capabilities such as LLMs, RAG concepts, and AI automation workflows.
+
+Passionate about designing clean architectures and developing intelligent solutions that solve real-world problems.
 ---
 
 ## 📊 GitHub Stats
@@ -36,6 +40,7 @@ I love building clean, scalable, and efficient applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="45" alt="Sass"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt=".NET"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server"/>
@@ -44,6 +49,15 @@ I love building clean, scalable, and efficient applications.
 </div>
 
 ---
+---
+
+## 🤖 AI & Automation
+- LLM Integration
+- RAG Concepts
+- Prompt Engineering
+- AI Chat Systems
+- n8n Automation
+- AI-powered Applications
 
 ## 🌐 Connect with Me
 <div align="center">
